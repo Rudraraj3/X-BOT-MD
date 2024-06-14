@@ -104,7 +104,7 @@ Sparky(
 args = args || m.quoted?.text;
 if (!args) return await m.reply("_Enter Or Reply to a link_");
 let dll = `https://toxicdevilapi.vercel.app/other/screenshot?url=${args}`
-client.sendMessage(m.jid, { image :{ url: dll }, caption: "_X BOT MD V3_"}, {quoted: m })
+client.sendMessage(m.jid, { image :{ url: dll }, caption: "_ANJAN-XD_"}, {quoted: m })
     }
 	);
 
