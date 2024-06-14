@@ -49,7 +49,7 @@ async ({
         
 Sparky(
     {
-        name: "song",
+        name: "play",
         fromMe: isPublic,
         category: "downloader",
         desc: "To download song"
